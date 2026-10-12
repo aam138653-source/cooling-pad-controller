@@ -28,3 +28,11 @@ Features listed above are planned or under development and may not all be implem
 ## Getting Started
 
 Setup instructions and dependencies will be documented as the project develops.
+
+## About AUTENQRO
+
+AUTENQRO is an engineering brand concept in development, focused on exploring the intersection of electrical engineering, industrial automation, robotics, electronics, and artificial intelligence.
+
+This project is part of the ongoing journey toward building practical engineering solutions under the AUTENQRO vision.
+
+**Current status:** Independent development and prototyping.
